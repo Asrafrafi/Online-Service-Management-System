@@ -1,4 +1,5 @@
 # 🛠️ Online Service Management System (OSMS) — PHP & MySQL
+📊[ Presentation Slide](https://docs.google.com/presentation/d/1CNwSbBuj16w-7eIoJLB2fshoPD-fXSDJ/edit?usp=sharing&ouid=100015217342737412470&rtpof=true&sd=true)
 
 An Online Service Management System (OSMS) is a web-based platform that allows users to submit service requests and enables admins to manage, assign, and resolve those requests efficiently. This project is built using PHP, MySQL, HTML, CSS, and Bootstrap.
 
